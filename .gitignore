@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pydeps/
+runs/
+output/
+*.pt
+
+# Videos placed in the reference folders. The folders themselves stay in git.
+Dataset/**/*.mp4
+Dataset/**/*.mov
+Dataset/**/*.avi
+Dataset/**/*.mkv
+Dataset/**/*.m4v

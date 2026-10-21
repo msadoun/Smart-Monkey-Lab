@@ -1,0 +1,43 @@
+# Same names block as YAML/monkey-ID.yml.
+# Set path to the --output folder from annotate.py. That folder holds train/, val/, and test/.
+# Ultralytics finds labels by replacing the images directory with labels.
+
+path: D:/data/output
+train: train/images
+val: val/images
+test: test/images
+
+names:
+  0: Aaron
+  1: Augustin
+  2: Chanel
+  3: Coco
+  4: Conchita
+  5: Dolores
+  6: Ferdinand
+  7: Florentine
+  8: Franziskus
+  9: Gustav
+  10: Heinz
+  11: Janis
+  12: Jessy
+  13: Karl
+  14: Kate
+  15: Kuddlmuddl
+  16: Lilly
+  17: Magdalena
+  18: Manfred
+  19: Marlene
+  20: Maya
+  21: Michaela
+  22: Mikado
+  23: Momo
+  24: Nico
+  25: Pauli
+  26: Pippi
+  27: Sakura
+  28: Sandra
+  29: Siegfried
+  30: Spooky
+  31: Uschi
+  32: William
