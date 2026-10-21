@@ -3,11 +3,11 @@
 <p align="center">
   <img src="images/siena.png" alt="SIENA" height="72">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="images/CU_Lockup_Main.svg" alt="Carinthia University of Applied Sciences" height="72">
+  <img src="images/SML-Logo.svg" alt="Affenberg" height="72">
 </p>
 
 <p align="center">
-  <img src="images/SML-Logo.svg" alt="Affenberg" height="72">
+  <img src="images/CU_Lockup_Main.svg" alt="Carinthia University of Applied Sciences" height="72">
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="images/TU-WIEN.svg" alt="Universität Wien" height="72">
 </p>
