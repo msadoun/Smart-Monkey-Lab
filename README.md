@@ -40,15 +40,9 @@ The study was funded by the Austrian Research Promotion Agency (FFG) under the B
 
 ## Performance
 
-Winter 2025 validation:
-
 | Precision | Recall | mAP50 | mAP50-95 |
 | --- | --- | --- | --- |
 | 91.90% | 89.30% | 93.30% | 69.10% |
-
-Validation mAP50 by period: 72.65%, 80.50%, 87.70%, 93.30%.
-
-Test mAP50 on the 39,017 single-animal frames: 84.83%. Test precision: 85.5%.
 
 <p align="center">
   <img src="images/Figure_09.png" alt="Face detections on the test footage" width="720">
