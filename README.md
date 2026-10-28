@@ -56,5 +56,7 @@ python annotate.py --videos Dataset --weights face.pt --names monkey-ID.yml --ou
 python train.py --model yolov9e.pt --data monkey-ID.yml
 python validate.py --model best.pt --data monkey-ID.yml
 python test.py --model best.pt --data monkey-ID.yml
-python annotate_test_videos.py
+python annotate_test_videos.py --positions configs/test_positions.csv
 ```
+
+`configs/test_positions.csv` lists each multi-animal clip, the axis (`horizontal` or `vertical`), and the order of the names along that axis.
