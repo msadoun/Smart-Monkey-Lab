@@ -1,7 +1,7 @@
 # Smart Monkey Lab
 
 <p align="center">
-  <img src="images/siena.png" alt="SIENA">
+  <img src="images/siena.png" alt="SIENA" height="72">
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="images/SML-Logo.svg" alt="Affenberg" height="72">
 </p>
