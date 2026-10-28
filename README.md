@@ -47,3 +47,14 @@ The study was funded by the Austrian Research Promotion Agency (FFG) under the B
 <p align="center">
   <img src="images/Figure_09.png" alt="Face detections on the test footage" width="720">
 </p>
+
+## Usage
+
+```
+pip install -r requirements.txt
+python annotate.py --videos Dataset --weights face.pt --names monkey-ID.yml --output output
+python train.py --model yolov9e.pt --data monkey-ID.yml
+python validate.py --model best.pt --data monkey-ID.yml
+python test.py --model best.pt --data monkey-ID.yml
+python annotate_test_videos.py
+```
