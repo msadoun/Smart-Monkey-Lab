@@ -35,7 +35,7 @@ Department for Spatial Informatics for Environmental Applications (SIENA), Carin
 
 Sadoun Mohammad Mustafa built the recognition system. Roy Hammer and Lena S. Pflüger led the fieldwork and the animal records at Affenberg. Gernot Paulus and Karl-Heinrich Anders supervised the project at SIENA.
 
-The Affenberg team made the study possible, in particular the managers Svenja and Peter Gaubatz, and Lena von Verschuer, who gave access to the macaque group and supported the filming.
+The Affenberg team made the study possible, in particular the managers Svenja and Peter Gaubatz, and Lena von Verschuer.
 
 ## Funding
 
