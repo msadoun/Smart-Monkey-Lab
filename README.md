@@ -16,9 +16,22 @@ Smart Monkey Lab is a study of individual face recognition in Japanese macaques 
 
 Filming ran across four seasons, from summer 2023 to winter 2025. Each clip was of one animal, already alone, and the file name carried that animal’s identity. A face finder then kept the frames with a single face and attached the name from the file. That is how a very large labelled set was built with little hand drawing.
 
-## People
+## Authors
 
-The work is shared by the Department for Spatial Informatics for Environmental Applications (SIENA) at the Carinthia University of Applied Sciences, and the Affenberg Research Station in the Department of Behavioral and Cognitive Biology at the University of Vienna.
+**Sadoun Mohammad Mustafa**  
+Department for Spatial Informatics for Environmental Applications (SIENA), Carinthia University of Applied Sciences, Europastrasse 4, Villach, A-9524, Austria
+
+**Roy Hammer**  
+Department of Behavioral and Cognitive Biology, Affenberg Research Station, University of Vienna, Djerassiplatz 1, Vienna, A-1030, Austria
+
+**Gernot Paulus** (corresponding author)  
+Department for Spatial Informatics for Environmental Applications (SIENA), Carinthia University of Applied Sciences, Europastrasse 4, Villach, A-9524, Austria
+
+**Lena S. Pflüger**  
+Department of Behavioral and Cognitive Biology, Affenberg Research Station, University of Vienna, Djerassiplatz 1, Vienna, A-1030, Austria
+
+**Karl-Heinrich Anders**  
+Department for Spatial Informatics for Environmental Applications (SIENA), Carinthia University of Applied Sciences, Europastrasse 4, Villach, A-9524, Austria
 
 Sadoun Mohammad Mustafa built the recognition system. Roy Hammer and Lena S. Pflüger led the fieldwork and the animal records at Affenberg. Gernot Paulus and Karl-Heinrich Anders supervised the project at SIENA.
 
