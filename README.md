@@ -33,10 +33,6 @@ Department of Behavioral and Cognitive Biology, Affenberg Research Station, Univ
 **Karl-Heinrich Anders**  
 Department for Spatial Informatics for Environmental Applications (SIENA), Carinthia University of Applied Sciences, Europastrasse 4, Villach, A-9524, Austria
 
-Sadoun Mohammad Mustafa built the recognition system. Roy Hammer and Lena S. Pflüger led the fieldwork and the animal records at Affenberg. Gernot Paulus and Karl-Heinrich Anders supervised the project at SIENA.
-
-The Affenberg team made the study possible, in particular the managers Svenja and Peter Gaubatz, and Lena von Verschuer.
-
 ## Funding
 
 The study was funded by the Austrian Research Promotion Agency (FFG) under the Bridge programme, project FO999898920, short title Smart Monkey Lab.
